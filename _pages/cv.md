@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Measurement and Control Technology and Instruments, Xi'an Jiaotong University, 2019
-* M.S. in Control Science and Engineering, Xi'an Jiaotong University, 2014
+* B.S. in Measurement and Control Technology and Instruments, Xi'an Jiaotong University, 2022
+* M.S. in Control Science and Engineering, Xi'an Jiaotong University, 2019
 
 
 Intern experience
@@ -32,7 +32,7 @@ Intern experience
   
 Skills
 ======
-* Skill 1
+* Coding
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
