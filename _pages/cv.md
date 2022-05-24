@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Measurement and Control Technology and Instruments, Xi'an Jiaotong University, 2019
+* M.S. in Control Science and Engineering, Xi'an Jiaotong University, 2014
 
-Work experience
+
+Intern experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Algorithm Intern
+  * Alibaba Cloud Computing Co. Ltd.
+  * Duties included: Increasing purchase rate and Information scheduling system optimization.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Summer 2020: Algorithm Intern
+  * Huawei Techonologies Co.Ltd.
+  * Research in OD traffic forecast in communication network.
+
+* Summer 2018: Development Intern
+  * Huawei Techonologies Co.Ltd.
+  * Learning of Openstack Framework and development of NOVA Components.
   
 Skills
 ======
