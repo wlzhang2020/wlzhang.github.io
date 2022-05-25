@@ -34,7 +34,7 @@ Intern experience
 
 Note
 ======
-For more information, refer to my [CV] (/images/EnglishCV.pdf).
+For more information, refer to my [CV](https://github.com/Xiaopengli1/XiaopengLi/blob/master/files/EnglishCV.pdf).
 
 
 
