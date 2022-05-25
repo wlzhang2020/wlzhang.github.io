@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-For more information, refer to my [CV] (/images/EnglishCV.pdf).
+
+
 Education
 ======
 * B.S. in Measurement and Control Technology and Instruments, Xi'an Jiaotong University, 2022
@@ -30,7 +31,10 @@ Intern experience
 * Summer 2018: Development Intern
   * Huawei Techonologies Co.Ltd.
   * Learning of Openstack Framework and development of NOVA Components.
-  
+
+Note
+======
+For more information, refer to my [CV] (/images/EnglishCV.pdf).
 
 
 
