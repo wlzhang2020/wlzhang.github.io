@@ -17,3 +17,25 @@ I have a lot of internship experience and scientific research experience, ready 
 For more information, refer to my [CV](https://xiaopengli1.github.io/XiaopengLi/files/EnglishCV.pdf).
 
 Email: lixiaopeng2019@gmail.com, lixiaopeng@stu.xjtu.edu.cn
+
+News
+======
+* May. 2022 - Successfully defended my Master Thesis at Xi’an Jiaotong University.
+* Apr. 2022 - One paper was accepted by Journal of Automation of Electric Power Systems .
+* Oct. 2021 - Get an official offer from HUAWEI.
+* Oct. 2021 - Get an official offer from Alibaba Cloud Group.
+* Sep. 2021 - Finish my internship at Alibaba Cloud Group in Hangzhou.
+* Aug. 2021 - Attended IEEE CASE 2022 in Lyon,France online and gave an presentation of my paper.
+* Jun. 2021 - Start my internship at Alibaba Cloud Group in Hangzhou.
+* May. 2021 - Get an Internship offer from Alibaba Cloud Group.
+* May. 2021 - Get an Internship offer from Tencent Group.
+* May. 2021 - One paper was accepted by conference of IEEE CASE(Conference on Automation Science and Engineering).
+* Aug. 2020 - Finish my internship at HUAWEI in Shenzhen.
+* Jun. 2020 - Start my internship at HUAWEI in Shenzhen.
+* Jun. 2019 - Successfully defended my Bachelor Thesis at Xi’an Jiaotong University.
+* Jun. 2019 - Get the Honour of Outstanding Undergraduate Graduates.(1/23)
+* Aug. 2018 - Finish my internship at HUAWEI Cloud Group in Xi'an.
+* May. 2018 - Admitted by XJTU-HUAWEI Cloud Computing Elite Class and get an internship offer from HUAWEI.
+* Jan. 2017 - Get admitted by the University of Cambridge,UK winter exchange program. 
+* Jun. 2016 - Successfully transfer my major.(First Year Rank 4/42)
+* Aug. 2015 - Start my life at Xi'an Jiaotong University.
