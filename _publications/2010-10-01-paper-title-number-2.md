@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Geographically distributed collaborative clustering method for load characteristic analysis"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about distributed clustering.'
