@@ -8,8 +8,9 @@ date: 2021-6-1
 paperurl: 'https://ieeexplore.ieee.org/document/9551610'
 
 ---
-This paper is about using Baysian LSTM for Probabilistic prediction
+This article is a task of spatiotemporal Probabilistic Prediction for wind power. We using bayesian LSTM model by minimize the loss of KL-divergence and MSE loss, and  
+taking into account the geographical distribution of wind farms， we introduce spatial correction of models to improve the accuracy.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/Uncertainty_Set_Prediction_of_Aggregated_Wind_Power_Generation_based_on_Bayesian_LSTM_and_Spatio-_Temporal_Analysis.pdf.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
