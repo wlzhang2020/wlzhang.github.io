@@ -14,6 +14,6 @@ My research interests focus on CPS(Cyber Physicial System) and artificial intell
 
 I have a lot of internship experience and scientific research experience, ready to join Alibaba Cloud Group as an algorithm engineer in July. However, becasue of academic pursuit, I am still looking for a PhD admissions opportunity, I expect  to enroll in 2022  fall or 2023 spring.
 
-For more information, refer to my [CV](https://github.com/Xiaopengli1/XiaopengLi/blob/master/files/EnglishCV.pdf).
+For more information, refer to my [CV](https://https://xiaopengli1.github.io/XiaopengLi/files/EnglishCV.pdf).
 
 Email: lixiaopeng2019@gmail.com, lixiaopeng@stu.xjtu.edu.cn
