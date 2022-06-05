@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postgraduate Student in Xi'an Jiaotong University (XJTU), working with [Prof.Zhanbo Xu](http://automation.xjtu.edu.cn/info/1048/1135.htm)  and [Prof.Jiang Wu](https://gr.xjtu.edu.cn/web/jiangwu/home). Before that, I obtained  B.Eng degree in  the same university in 2019, working with [Prof.Yunjia Li](http://gr.xjtu.edu.cn/web/liyunjia).
+I am currently a postgraduate Student in Xi'an Jiaotong University (XJTU), working with [Prof.Jiang Wu](https://gr.xjtu.edu.cn/web/jiangwu/home) and [Prof.Zhanbo Xu](http://automation.xjtu.edu.cn/info/1048/1135.htm). Before that, I obtained  B.Eng degree in  the same university in 2019, working with [Prof.Yunjia Li](http://gr.xjtu.edu.cn/web/liyunjia).
 
 My research interests focus on CPS(Cyber Physicial System) and artificial intelligence, specifically on the topic of application of spatiotemporal network model in smart grid and smart building.
 
