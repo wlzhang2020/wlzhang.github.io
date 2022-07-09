@@ -12,7 +12,9 @@ I am currently a postgraduate Student in Xi'an Jiaotong University (XJTU), worki
 
 My research interests focus on CPS(Cyber Physicial System) and artificial intelligence, specifically on the topic of application of spatiotemporal network model in smart grid and smart building.
 
-I have a lot of internship experience and scientific research experience, ready to join Alibaba Cloud Group as an algorithm engineer in July. However, becasue of academic pursuit, I am still looking for a PhD admissions opportunity, I expect  to enroll in 2022  fall or 2023 spring.
+I will Join CityU of Hong Kong in the spring of 2023 to study for PhD with [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/).
+
+<!-- I have a lot of internship experience and scientific research experience, ready to join Alibaba Cloud Group as an algorithm engineer in July. However, becasue of academic pursuit, I am still looking for a PhD admissions opportunity, I expect  to enroll in 2022  fall or 2023 spring. -->
 
 For more information, refer to my [CV](https://xiaopengli1.github.io/XiaopengLi/files/EnglishCV.pdf).
 
@@ -20,6 +22,7 @@ Email: lixiaopeng2019@gmail.com, lixiaopeng@stu.xjtu.edu.cn
 
 News
 ======
+* Jun. 2022 - Successfully Get the PhD offer from CityU of Hong Kong.
 * May. 2022 - Successfully defended my Master Thesis at Xi’an Jiaotong University.
 * Apr. 2022 - One paper was accepted by Journal of Automation of Electric Power Systems .
 * Oct. 2021 - Get an official offer from HUAWEI.
