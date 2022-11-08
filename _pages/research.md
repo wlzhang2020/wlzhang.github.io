@@ -25,10 +25,3 @@ In this project, we use multiple time series bagging model to predict network fl
 
 ![pic](https://xiaopengli1.github.io/XiaopengLi/images/p4.png)
 
-
-## Hardware Design
-
-A capacitive sensor and signal processing circuit are designed to detect if the patient has run out of fluid during an infusion. When the liquid runs out, it will automatically alarm to remind the patient to pay attention to safety.
-
-![pic](https://xiaopengli1.github.io/XiaopengLi/images/p5.png)
-![pic](https://xiaopengli1.github.io/XiaopengLi/images/p6.png)
