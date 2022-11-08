@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will Join CityU of Hong Kong in the spring of 2023 to study for PhD with [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I got M.S. From Xi'an Jiaotong University (XJTU) in 2022, working with [Prof.Jiang Wu](https://gr.xjtu.edu.cn/web/jiangwu/home) and [Prof.Zhanbo Xu](http://automation.xjtu.edu.cn/info/1048/1135.htm)and B.Eng degree in the same university in 2019.
+I will Join CityU of Hong Kong in the spring of 2023 to study for PhD with [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I got M.S. From Xi'an Jiaotong University (XJTU) in 2022, working with [Prof.Jiang Wu](https://gr.xjtu.edu.cn/web/jiangwu/home) and [Prof.Zhanbo Xu](http://automation.xjtu.edu.cn/info/1048/1135.htm),and B.Eng degree in the same university in 2019.
 
 My research interests focus on CPS(Cyber Physicial System) and artificial intelligence, specifically on the topic of application of spatiotemporal network model in smart grid and smart building.
 
