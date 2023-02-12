@@ -13,7 +13,7 @@ I am now a first-year Ph.D student from the School of Data Science at City Unive
 My research interests focus on recommendation system spatiotemporal network model in smart grid and smart building.
 
 For more information, please feel free to contact me.
-Email: Lee.XIAO-Peng@my.cityu.edu,hk , lixiaopeng2019@gmail.com
+Email: Lee.XIAO-Peng@my.cityu.edu.hk , lixiaopeng2019@gmail.com
 
 
 
