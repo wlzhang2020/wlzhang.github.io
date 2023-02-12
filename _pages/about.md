@@ -10,15 +10,13 @@ redirect_from:
 
 I am now a first-year Ph.D student from the School of Data Science at City University of Hong Kong, supervised by Prof.Xiangyu Zhao in AML Lab. Before that, I got M.S. and B.Eng degree from Xian Jiaotong university in 2022 and 2019. 
 
-For more information, please feel free to contact me.
+My research interests focus on recommendation system spatiotemporal network model in smart grid and smart building.
 
+For more information, please feel free to contact me.
 Email: Lee.XIAO-Peng@my.cityu.edu,hk , lixiaopeng2019@gmail.com
 
 
-Research Interest
-======
 
-My research interests focus on recommendation system spatiotemporal network model in smart grid and smart building.
 
 
 Publication
@@ -31,13 +29,13 @@ Publication
 Work Experience
 ======
 
-Summer 2021: Algorithm Intern
+Summer 2021: Algorithm Intern,
 Alibaba Cloud Computing Co. Ltd.
 
-Summer 2020: Algorithm Intern
+Summer 2020: Algorithm Intern,
 Huawei Techonologies Co.Ltd.
 
-Summer 2018: Development Intern
+Summer 2018: Development Intern,
 Huawei Techonologies Co.Ltd.
 
 
