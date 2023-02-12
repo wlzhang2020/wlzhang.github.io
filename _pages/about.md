@@ -8,18 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-I am now the first year phd at CityU of Hong Kong with [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I got M.S. and B.Eng degree from Xian Jiaotong university in 2022 and 2019. 
-
-My research interests focus on artificial intelligence and CPS(Cyber Physicial System), specifically on the topic of recommendation system, spatiotemporal network model in smart grid and smart building.
-
+I am now a first-year Ph.D student from the School of Data Science at City University of Hong Kong, supervised by Prof.Xiangyu Zhao in AML Lab. Before that, I got M.S. and B.Eng degree from Xian Jiaotong university in 2022 and 2019. 
 
 For more information, please feel free to contact me.
 
 Email: Lee.XIAO-Peng@my.cityu.edu,hk , lixiaopeng2019@gmail.com
 
-News
+
+Research Interest
 ======
 
+My research interests focus on recommendation system spatiotemporal network model in smart grid and smart building.
+
+
+Publication
+======
+* Xiaopeng Li, Jiang Wu, Zhanbo Xu, Kun Liu, Jun Yu, Xiaohong Guan, "Uncertainty Set Prediction of Aggregated Wind Power Generation based on Bayesian LSTM and Spatio- Temporal Analysis" ,2021 IEEE 17th International Conference on Automation Science and Engineering (CASE)
+
+* Jiacheng Liu, Jiang Wu, Pengyuan Liu, Zhanbo Xu, Xiaopeng Li, Xiaogong Guan，"Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis" ,Automation of Electric Power Systems 2022,46(15):112-120
+
+
+Work Experience
+======
+
+Summer 2021: Algorithm Intern
+Alibaba Cloud Computing Co. Ltd.
+
+Summer 2020: Algorithm Intern
+Huawei Techonologies Co.Ltd.
+
+Summer 2018: Development Intern
+Huawei Techonologies Co.Ltd.
+
+
+News
+======
 
 * Jun. 2023 - Join AML Lab, CityU of Hongkong.
 <!-- * May. 2022 - Successfully defended my Master Thesis at Xi’an Jiaotong University. -->
