@@ -26,7 +26,7 @@ Publication
    2021 IEEE 17th International Conference on Automation Science and Engineering (CASE)
 
 * Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis  \
-  Jiacheng Liu, Jiang Wu, Pengyuan Liu, Zhanbo Xu, **Xiaopeng Li**, Xiaogong Guan  \
+  Jiacheng Liu, Jiang Wu, Pengyuan Liu, Zhanbo Xu, <ins>**Xiaopeng Li**</ins>, Xiaogong Guan  \
   Automation of Electric Power Systems (AEPS)
 
 
