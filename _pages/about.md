@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first-year Ph.D student from the School of Data Science at City University of Hong Kong, supervised by Prof.Xiangyu Zhao in AML Lab. Before that, I got M.S. and B.Eng degree from Xian Jiaotong university in 2022 and 2019. 
+I am now a first-year Ph.D student from the School of Data Science at City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in AML Lab. Before that, I got M.S. and B.Eng degree from Xian Jiaotong university in 2022 and 2019. 
 
-My research interests focus on recommendation system spatiotemporal network model in smart grid and smart building.
+My research interests focus on recommendation system ,spatiotemporal network model in smart grid and smart building.
 
 For more information, please feel free to contact me.
-Email: Lee.XIAO-Peng@my.cityu.edu.hk , lixiaopeng2019@gmail.com
+Email: Lee.XIAO-Peng@my.cityu.edu.hk , lixiaopeng2019@gmail.com.
 
 
 
@@ -42,7 +42,10 @@ Huawei Techonologies Co.Ltd.
 News
 ======
 
-* Jun. 2023 - Join AML Lab, CityU of Hongkong.
+* Mar. 2023 - Serve as Artifact Reviewer of WebConf'2023.
+* Feb. 2023 - Serve as Reviewer of ACM TEWB.
+* Feb. 2023 - Serve as Reviewer of KDD'2023.
+* Jan. 2023 - Join AML Lab, CityU of Hongkong.
 <!-- * May. 2022 - Successfully defended my Master Thesis at Xi’an Jiaotong University. -->
 <!-- * Apr. 2022 - One paper was accepted by Journal of **Automation of Electric Power Systems** . -->
 <!-- * Aug. 2021 - Attended IEEE CASE 2022 in Lyon,France and gave an  oral presentation. -->
