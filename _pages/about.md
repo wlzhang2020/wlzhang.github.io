@@ -21,7 +21,9 @@ Email: Lee.XIAO-Peng@my.cityu.edu.hk , lixiaopeng2019@gmail.com.
 
 Publication
 ======
-* Xiaopeng Li, Jiang Wu, Zhanbo Xu, Kun Liu, Jun Yu, Xiaohong Guan, "Uncertainty Set Prediction of Aggregated Wind Power Generation based on Bayesian LSTM and Spatio- Temporal Analysis" ,2021 IEEE 17th International Conference on Automation Science and Engineering (CASE)
+* "Uncertainty Set Prediction of Aggregated Wind Power Generation based on Bayesian LSTM and Spatio- Temporal Analysis" 
+   **Xiaopeng Li**, Jiang Wu, Zhanbo Xu, Kun Liu, Jun Yu, Xiaohong Guan, "
+   2021 IEEE 17th International Conference on Automation Science and Engineering (CASE)
 
 * Jiacheng Liu, Jiang Wu, Pengyuan Liu, Zhanbo Xu, Xiaopeng Li, Xiaogong Guan，"Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis" ,Automation of Electric Power Systems 2022,46(15):112-120
 
