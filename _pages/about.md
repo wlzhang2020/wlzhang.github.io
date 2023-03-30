@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first-year Ph.D student from the School of Data Science at City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in AML Lab. Before that, I got M.S. and B.Eng degree from Xian Jiaotong university in 2022 and 2019. 
+I will join AML Lab in 2023 Fall as a first-year Ph.D student from the School of Data Science at City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I got M.S. and BS degree from Northwestern Polytechnical university in 2023 and 2020. 
 
-My research interests focus on recommendation system ,spatiotemporal network model in smart grid and smart building.
+My research interests focus on recommendation system and graph neural networks.
 
 For more information, please feel free to contact me.
-Email: Lee.XIAO-Peng@my.cityu.edu.hk , lixiaopeng2019@gmail.com.
+Email: wlzhang98@gmail.com.
 
 
 
 
 
-Publication
+<!-- Publication
 ======
 *  Uncertainty Set Prediction of Aggregated Wind Power Generation based on Bayesian LSTM and Spatio- Temporal Analysis \
    <ins>**Xiaopeng Li**</ins>, Jiang Wu, Zhanbo Xu, Kun Liu, Jun Yu, Xiaohong Guan \
@@ -49,7 +49,8 @@ News
 * Mar. 2023 - Serve as Artifact Reviewer of WebConf'2023.
 * Feb. 2023 - Serve as Reviewer of ACM TEWB.
 * Feb. 2023 - Serve as Reviewer of KDD'2023.
-* Jan. 2023 - Join AML Lab, CityU of Hongkong.
+* Jan. 2023 - Join AML Lab, CityU of Hongkong. -->
+
 <!-- * May. 2022 - Successfully defended my Master Thesis at Xi’an Jiaotong University. -->
 <!-- * Apr. 2022 - One paper was accepted by Journal of **Automation of Electric Power Systems** . -->
 <!-- * Aug. 2021 - Attended IEEE CASE 2022 in Lyon,France and gave an  oral presentation. -->
