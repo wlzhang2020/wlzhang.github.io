@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "XiaopengLi's Page"
+title                    : "WenlinZhang's Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaopeng Li"
-  avatar           : "xp.jpg"
+  name             : "Wenlin Zhang"
+  avatar           : "profile.png"
   bio              : "Phd student at City university of Hongkong"
   location         : "Hongkong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=hCCqgQQAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=qyr7C8oAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Xiaopengli1"
+  github           : "https://github.com/wlzhang2020"
   google_plus      :
   keybase          :
   instagram        :
