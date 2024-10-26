@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join AML Lab in 2023 Fall as a first-year Ph.D student from the School of Data Science at City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I got M.S. and BS degree from Northwestern Polytechnical university in 2023 and 2020. 
+I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I got M.S. and BS degree from Northwestern Polytechnical university in 2023 and 2020. 
 
 My research interests focus on recommendation system and graph neural networks.
 
