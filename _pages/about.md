@@ -10,7 +10,7 @@ redirect_from:
 
 I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I got M.S. and BS degree from Northwestern Polytechnical university in 2023 and 2020. 
 
-My research interests focus on recommendation system and graph neural networks.
+My research interest includes Recommender System, Information Retrieval, Large Language Models.
 
 For more information, please feel free to contact me.
 Email: wlzhang98@gmail.com.
