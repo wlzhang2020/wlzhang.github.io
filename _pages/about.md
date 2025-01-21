@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Wenlin Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,37 @@ redirect_from:
   - /about.html
 ---
 
+## Introduction
+
 I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I got M.S. and BS degree from Northwestern Polytechnical university in 2023 and 2020. 
 
 My research interest includes Recommender System, Information Retrieval, Large Language Models.
 
 For more information, please feel free to contact me.
-Email: wlzhang98@gmail.com.
+Email: wl.z@my.cityu.edu.hk.
 
+## Selected Publications
+### Conference & Journal Papers
 
+* **[LLMTreeRec: A Tree-based Large Language Model Framework for Cold-start Recommendation](https://aclanthology.org/2025.coling-main.59/)**
+  * Wenlin Zhang, Chuhan Wu, Xiangyang Li, Yuhao Wang, Kuicai Dong, Yichao Wang, Xinyi Dai, Xiangyu Zhao, Huifeng Guo, Ruiming Tang
+  * COLING'25, Proceedings of the 31st International Conference on Computational Linguistics
+ 
+## Work Experience
 
+Research Intern - Huawei, Noah's Ark Lab
 
+## Teaching Experience
+
+2024\~2025 Semester B - GE2343_SDSC2004 Data Visualization, TA\
+2024\~2025 Semester A - SDSC5002 Exploratory Data Analysis and Visualization, TA\
+
+**Conference Volunteer**:\
+COLING'2025
+
+## News
+[2024.12] Serve as the Volunteer in COLING'2025.
+[2023.9] Start my Ph.D. at CityU HK.
 
 <!-- Publication
 ======
